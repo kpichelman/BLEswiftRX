@@ -1,0 +1,6 @@
+framework module Pods_BLEDataGatherer {
+  umbrella header "Pods-BLEDataGatherer-umbrella.h"
+
+  export *
+  module * { export * }
+}
